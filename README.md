@@ -1,7 +1,7 @@
 ## Hi there 👋
-
+## I'm K.B.KARTHIK WHO INTRESTED IN CODING
+## LEARNING TILL DAWN
 <!--
-**kbkarthik-exe/kbkarthik-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
